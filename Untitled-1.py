@@ -8,3 +8,4 @@ def get_names(name):
         print("Name is not in the list of names")
 
 get_names("Alex")
+get_names("Xaiver")
